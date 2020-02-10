@@ -9,7 +9,7 @@ body {
 }
 
 p {
-  font-size: 12px;
+  font-size: 15px;
   text-decoration: none;
   color: #ffffff;
 }
@@ -20,7 +20,7 @@ h1 {
 }
 
 .box {
-  background: white;
+  background: red;
   display: flex;
   flex-direction: column;
   width: 240px;
